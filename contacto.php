@@ -1,5 +1,5 @@
 <h1 class="centered">Contacto</h1>
-<ul class="thumbnails">
+<ul class="thumbnails" style="margin-top:20px;">
   <li class="span6">
     <div class="thumbnail">
       <div class="caption">
