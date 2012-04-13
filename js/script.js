@@ -1,3 +1,5 @@
 $(document).ready(function(){
-	$('.navbar').scrollspy();
+	$('.navbar').scrollspy({
+		'offset': 100
+	});
 });

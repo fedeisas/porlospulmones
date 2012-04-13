@@ -5,10 +5,19 @@ h3 {
 	font-family: 'Alegreya', serif;
 }
 
+.row {
+	margin:0px auto 1000px;
+}
 h1.centered {
 	text-align:center;
 	font-size:24px;
-	margin-bottom:10px;
-	padding-bottom:10px;
+	padding-top:40px;
+	margin-top:40px;
+	margin-bottom:3px;
+	padding-bottom:3px;
 	border-bottom:1px solid #CCC;
+}
+h1.centered.first {
+	padding-top:20px;
+	margin-top:20px;
 }

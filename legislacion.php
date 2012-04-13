@@ -1,4 +1,4 @@
-<h1 class="centered">Constitución Nacional de la Nación Argentina</h1>
+<h1 class="centered first">Constitución Nacional de la Nación Argentina</h1>
 <div class="accordion" id="accordion2">
   <div class="accordion-group">
     <div class="accordion-heading">
