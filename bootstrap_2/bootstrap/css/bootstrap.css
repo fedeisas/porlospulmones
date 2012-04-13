@@ -165,79 +165,79 @@ a:hover {
 .container,
 .navbar-fixed-top .container,
 .navbar-fixed-bottom .container {
-  width: 760px;
+  width: 700px;
 }
 .span12 {
-  width: 760px;
+  width: 700px;
 }
 .span11 {
-  width: 695px;
+  width: 640px;
 }
 .span10 {
-  width: 630px;
+  width: 580px;
 }
 .span9 {
-  width: 565px;
+  width: 520px;
 }
 .span8 {
-  width: 500px;
+  width: 460px;
 }
 .span7 {
-  width: 435px;
+  width: 400px;
 }
 .span6 {
-  width: 370px;
+  width: 340px;
 }
 .span5 {
-  width: 305px;
+  width: 280px;
 }
 .span4 {
-  width: 240px;
+  width: 220px;
 }
 .span3 {
-  width: 175px;
+  width: 160px;
 }
 .span2 {
-  width: 110px;
+  width: 100px;
 }
 .span1 {
-  width: 45px;
+  width: 40px;
 }
 .offset12 {
-  margin-left: 800px;
+  margin-left: 740px;
 }
 .offset11 {
-  margin-left: 735px;
+  margin-left: 680px;
 }
 .offset10 {
-  margin-left: 670px;
+  margin-left: 620px;
 }
 .offset9 {
-  margin-left: 605px;
+  margin-left: 560px;
 }
 .offset8 {
-  margin-left: 540px;
+  margin-left: 500px;
 }
 .offset7 {
-  margin-left: 475px;
+  margin-left: 440px;
 }
 .offset6 {
-  margin-left: 410px;
+  margin-left: 380px;
 }
 .offset5 {
-  margin-left: 345px;
+  margin-left: 320px;
 }
 .offset4 {
-  margin-left: 280px;
+  margin-left: 260px;
 }
 .offset3 {
-  margin-left: 215px;
+  margin-left: 200px;
 }
 .offset2 {
-  margin-left: 150px;
+  margin-left: 140px;
 }
 .offset1 {
-  margin-left: 85px;
+  margin-left: 80px;
 }
 .row-fluid {
   width: 100%;
@@ -798,40 +798,40 @@ textarea,
   margin-left: 0;
 }
 input.span12, textarea.span12, .uneditable-input.span12 {
-  width: 750px;
+  width: 690px;
 }
 input.span11, textarea.span11, .uneditable-input.span11 {
-  width: 685px;
+  width: 630px;
 }
 input.span10, textarea.span10, .uneditable-input.span10 {
-  width: 620px;
+  width: 570px;
 }
 input.span9, textarea.span9, .uneditable-input.span9 {
-  width: 555px;
+  width: 510px;
 }
 input.span8, textarea.span8, .uneditable-input.span8 {
-  width: 490px;
+  width: 450px;
 }
 input.span7, textarea.span7, .uneditable-input.span7 {
-  width: 425px;
+  width: 390px;
 }
 input.span6, textarea.span6, .uneditable-input.span6 {
-  width: 360px;
+  width: 330px;
 }
 input.span5, textarea.span5, .uneditable-input.span5 {
-  width: 295px;
+  width: 270px;
 }
 input.span4, textarea.span4, .uneditable-input.span4 {
-  width: 230px;
+  width: 210px;
 }
 input.span3, textarea.span3, .uneditable-input.span3 {
-  width: 165px;
+  width: 150px;
 }
 input.span2, textarea.span2, .uneditable-input.span2 {
-  width: 100px;
+  width: 90px;
 }
 input.span1, textarea.span1, .uneditable-input.span1 {
-  width: 35px;
+  width: 30px;
 }
 input[disabled],
 select[disabled],
@@ -1270,122 +1270,122 @@ table {
 }
 table .span1 {
   float: none;
-  width: 29px;
+  width: 24px;
   margin-left: 0;
 }
 table .span2 {
   float: none;
-  width: 94px;
+  width: 84px;
   margin-left: 0;
 }
 table .span3 {
   float: none;
-  width: 159px;
+  width: 144px;
   margin-left: 0;
 }
 table .span4 {
   float: none;
-  width: 224px;
+  width: 204px;
   margin-left: 0;
 }
 table .span5 {
   float: none;
-  width: 289px;
+  width: 264px;
   margin-left: 0;
 }
 table .span6 {
   float: none;
-  width: 354px;
+  width: 324px;
   margin-left: 0;
 }
 table .span7 {
   float: none;
-  width: 419px;
+  width: 384px;
   margin-left: 0;
 }
 table .span8 {
   float: none;
-  width: 484px;
+  width: 444px;
   margin-left: 0;
 }
 table .span9 {
   float: none;
-  width: 549px;
+  width: 504px;
   margin-left: 0;
 }
 table .span10 {
   float: none;
-  width: 614px;
+  width: 564px;
   margin-left: 0;
 }
 table .span11 {
   float: none;
-  width: 679px;
+  width: 624px;
   margin-left: 0;
 }
 table .span12 {
   float: none;
-  width: 744px;
+  width: 684px;
   margin-left: 0;
 }
 table .span13 {
   float: none;
-  width: 809px;
+  width: 744px;
   margin-left: 0;
 }
 table .span14 {
   float: none;
-  width: 874px;
+  width: 804px;
   margin-left: 0;
 }
 table .span15 {
   float: none;
-  width: 939px;
+  width: 864px;
   margin-left: 0;
 }
 table .span16 {
   float: none;
-  width: 1004px;
+  width: 924px;
   margin-left: 0;
 }
 table .span17 {
   float: none;
-  width: 1069px;
+  width: 984px;
   margin-left: 0;
 }
 table .span18 {
   float: none;
-  width: 1134px;
+  width: 1044px;
   margin-left: 0;
 }
 table .span19 {
   float: none;
-  width: 1199px;
+  width: 1104px;
   margin-left: 0;
 }
 table .span20 {
   float: none;
-  width: 1264px;
+  width: 1164px;
   margin-left: 0;
 }
 table .span21 {
   float: none;
-  width: 1329px;
+  width: 1224px;
   margin-left: 0;
 }
 table .span22 {
   float: none;
-  width: 1394px;
+  width: 1284px;
   margin-left: 0;
 }
 table .span23 {
   float: none;
-  width: 1459px;
+  width: 1344px;
   margin-left: 0;
 }
 table .span24 {
   float: none;
-  width: 1524px;
+  width: 1404px;
   margin-left: 0;
 }
 [class^="icon-"],
@@ -2976,7 +2976,7 @@ input[type="submit"].btn.btn-mini {
 }
 .navbar-fixed-top .container,
 .navbar-fixed-bottom .container {
-  width: 760px;
+  width: 700px;
 }
 .navbar-fixed-top {
   top: 0;
