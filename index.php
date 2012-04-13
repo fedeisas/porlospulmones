@@ -35,7 +35,7 @@
           <div class="nav-collapse">
             <ul class="nav">
               <li><a href="#legislacion">Legislación</a></li>
-              <li><a href="#lgma">LGMA</a></li>
+              <li><a href="#cpm">Código Plan. Urbano</a></li>
               <li><a href="#contacto">Contacto</a></li>
             </ul>
           </div><!--/.nav-collapse -->
@@ -51,6 +51,13 @@
           <?php require('legislacion.php'); ?>
           <?php require('lgma.php'); ?>
           <?php require('ley_25275.php'); ?>
+        </div>
+      </div>
+
+      <!-- Example row of columns -->
+      <div class="row" id="cpm">
+        <div class="span12">
+          <?php require('cpm.php'); ?>
         </div>
       </div>
 
