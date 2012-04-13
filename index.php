@@ -48,7 +48,9 @@
       <!-- Example row of columns -->
       <div class="row" id="inicio">
         <div class="span12">
-          <?php include('legislacion.php'); ?>
+
+        
+
         </div>
       </div>
 
