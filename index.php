@@ -58,6 +58,7 @@
       <div class="row" id="cpm">
         <div class="span12">
           <?php require('cpm.php'); ?>
+          <?php require('geo.php'); ?>
         </div>
       </div>
 
