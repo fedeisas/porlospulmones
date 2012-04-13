@@ -50,6 +50,7 @@
         <div class="span12">
           <?php require('legislacion.php'); ?>
           <?php require('lgma.php'); ?>
+          <?php require('ley_25275.php'); ?>
         </div>
       </div>
 
