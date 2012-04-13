@@ -34,7 +34,7 @@
           <a class="brand" href="#">Pulmones de Manzana de Tucumán</a>
           <div class="nav-collapse">
             <ul class="nav">
-              <li class="active"><a href="#inicio">Legislación</a></li>
+              <li><a href="#inicio">Legislación</a></li>
               <li><a href="#about">About</a></li>
               <li><a href="#como-ayudar">Cómo puedo ayudar?</a></li>
             </ul>
@@ -48,9 +48,8 @@
       <!-- Example row of columns -->
       <div class="row" id="inicio">
         <div class="span12">
-
-        
-
+          <h1 class="centered">Constitución Nacional de la Nación Argentina</h1>
+          <?php require('legislacion.php'); ?>
         </div>
       </div>
 

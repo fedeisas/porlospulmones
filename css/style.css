@@ -1,3 +1,11 @@
 h1,h2,h3 {
 	font-family: 'Alegreya', serif;
 }
+
+h1.centered {
+	text-align:center;
+	font-size:24px;
+	margin-bottom:10px;
+	padding-bottom:10px;
+	border-bottom:1px solid #CCC;
+}
