@@ -46,7 +46,7 @@
     <div class="container">
 
       <!-- Example row of columns -->
-      <div class="row" id="constitucion">
+      <div class="row" id="legislacion">
         <div class="span12">
           <?php require('legislacion.php'); ?>
           <?php require('lgma.php'); ?>
