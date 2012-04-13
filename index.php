@@ -7,7 +7,7 @@
     <!-- Le styles -->
     <link href="bootstrap_2/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Alegreya:400,700,400italic' rel='stylesheet' type='text/css'>
-    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style.css?v=<?=time()?>" rel="stylesheet">
 
     <style type="text/css">
       body {
