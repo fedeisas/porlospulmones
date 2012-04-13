@@ -34,8 +34,8 @@
           <a class="brand" href="#">Pulmones de Manzana de Tucumán</a>
           <div class="nav-collapse">
             <ul class="nav">
-              <li><a href="#inicio">Legislación</a></li>
-              <li><a href="#como-ayudar">Cómo puedo ayudar?</a></li>
+              <li><a href="#legislacion">Legislación</a></li>
+              <li><a href="#lgma">LGMA</a></li>
               <li><a href="#contacto">Contacto</a></li>
             </ul>
           </div><!--/.nav-collapse -->
@@ -46,9 +46,10 @@
     <div class="container">
 
       <!-- Example row of columns -->
-      <div class="row" id="inicio">
+      <div class="row" id="constitucion">
         <div class="span12">
           <?php require('legislacion.php'); ?>
+          <?php require('lgma.php'); ?>
         </div>
       </div>
 
