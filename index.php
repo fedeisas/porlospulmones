@@ -35,8 +35,8 @@
           <div class="nav-collapse">
             <ul class="nav">
               <li><a href="#inicio">Legislación</a></li>
-              <li><a href="#about">About</a></li>
               <li><a href="#como-ayudar">Cómo puedo ayudar?</a></li>
+              <li><a href="#contacto">Contacto</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -48,8 +48,14 @@
       <!-- Example row of columns -->
       <div class="row" id="inicio">
         <div class="span12">
-          <h1 class="centered">Constitución Nacional de la Nación Argentina</h1>
           <?php require('legislacion.php'); ?>
+        </div>
+      </div>
+
+      <!-- Example row of columns -->
+      <div class="row" id="contacto">
+        <div class="span12">
+          <?php require('contacto.php'); ?>
         </div>
       </div>
 

@@ -1,3 +1,4 @@
+<h1 class="centered">Constitución Nacional de la Nación Argentina</h1>
 <div class="accordion" id="accordion2">
   <div class="accordion-group">
     <div class="accordion-heading">
@@ -5,7 +6,7 @@
         Artículo 41
       </a>
     </div>
-    <div id="collapseOne" class="accordion-body collapse in">
+    <div id="collapseOne" class="accordion-body collapse">
       <div class="accordion-inner">
         <p>Todos los habitantes gozan del derecho a un ambiente sano, equilibrado, apto para el desarrollo humano y para que las actividades productivas satisfagan las necesidades presentes sin comprometer las de las generaciones futuras; y tienen el deber de preservarlo. El daño ambiental generará prioritariamente la obligación de recomponer, según lo establezca  la ley.</p> 
         <p>Las autoridades proveerán a la protección de este derecho, a la utilización racional de los recursos naturales, a la preservación del patrimonio natural y cultural y de la diversidad biológica, y a la información y educación ambientales.</p> 
