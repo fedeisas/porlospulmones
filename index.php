@@ -47,7 +47,7 @@
 
       <!-- Example row of columns -->
       <div class="row" id="inicio">
-        <div class="span12">
+        <div class="span12">a
           <h1 class="centered">Constitución Nacional de la Nación Argentina</h1>
           <?php require('legislacion.php'); ?>
         </div>
