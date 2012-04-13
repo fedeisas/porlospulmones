@@ -2,11 +2,10 @@
 <ul class="thumbnails">
   <li class="span6">
     <div class="thumbnail">
-      <img alt="" src="http://placehold.it/260x180">
       <div class="caption">
         <h5>Caminos, María Florencia</h5>
         <p>Estudiante de Arquitectura y Urbanismo | Asesora juvenil GEO y Tunza ALC.</p>
-        <p><a href="mailto:florencia_caminos@hotmail.com"></a></p>
+        <p><a href="mailto:florencia_caminos@hotmail.com">florencia_caminos@hotmail.com</a></p>
         <p>
           <a class="btn btn-primary" href="http://www.facebook.com/profile.php?id=1197330272" target="_blank">Facebook</a>
         </p>
@@ -15,7 +14,6 @@
   </li>
   <li class="span6">
     <div class="thumbnail">
-      <img alt="" src="http://placehold.it/260x180">
       <div class="caption">
         <h5>Valenti, Analía</h5>
         <p>Arquitecta.</p>
